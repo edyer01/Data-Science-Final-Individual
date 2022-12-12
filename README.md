@@ -76,7 +76,7 @@ Question 3:
     
      
    ### Results
-    ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
+   ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
 ## References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
