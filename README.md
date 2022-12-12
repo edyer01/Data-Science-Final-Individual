@@ -21,7 +21,7 @@
 ## Methods
   Tools: 
   
-   All data manipualtion and visualization was done in a Juypter notebook (https://github.com/edyer01/DataSciencePoject/blob/main/DS_Final_Videogame_Data.ipynb)
+   All data manipualtion and visualization was done in a Juypter notebook (https://github.com/edyer01/Data-Science-Final-Individual/blob/main/DS_Final_Videogame_Data.ipynb)
    
    Pandas for data cleaning and analysis
    
