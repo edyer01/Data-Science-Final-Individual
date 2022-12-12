@@ -74,8 +74,7 @@ Question 3:
    For the individual aspect of the project, I chose to look into my groups proposed future direction to question 2:
     Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
      
-     # Results
-    
+    # Results
     ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
