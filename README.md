@@ -30,17 +30,17 @@
 
 ## Results
   Question 1:
-  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q1.jpg)
+  ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q1.jpg)
   
   We decided to create a bar chart that counts the number of enteries in each genre to answer this question 
   
   Question 2:
-  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q2.jpg)
+  ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q2.jpg)
   
   For this question, we created a scatter plot. Along the x axis is Critic_Score and the y axis is User_Score.
   
   Question 3:
-  ![alt text](https://github.com/edyer01/DataSciencePoject/blob/main/Q3.jpg)
+  ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q3.jpg)
   
   To answer this question, we decided to create a stacked area graph. Each color represents one platform, and the area of that color shows how many total games were sold globably on that specific platform for that year.
 
@@ -73,9 +73,10 @@ Question 3:
  
    For the individual aspect of the project, I chose to look into my groups proposed future direction to question 2:
     Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
+    
      
- ### Results
-   ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
+   ### Results
+    ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
 ## References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
