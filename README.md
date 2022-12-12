@@ -74,10 +74,10 @@ Question 3:
    For the individual aspect of the project, I chose to look into my groups proposed future direction to question 2:
     Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
     
-    ### Selection of Data & Methods
-    The data used was the exact same as before (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
-    All work for this part was done is a seperate notebook (https://github.com/edyer01/Data-Science-Final-Individual/blob/main/DS_Final_Indvidual.ipynb)
-    The only new tool used was sklearn.linear_model to create the linear regresion
+   ### Selection of Data & Methods
+   The data used was the exact same as before (https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings)
+   All work for this part was done is a seperate notebook (https://github.com/edyer01/Data-Science-Final-Individual/blob/main/DS_Final_Indvidual.ipynb)
+   The only new tool used was sklearn.linear_model to create the linear regresion
     
      
    ### Results
@@ -89,7 +89,9 @@ Question 3:
    ### Discussion
    
    Looking at the image now, it is clear that there is not much of a correlation between user score and critic score. This fact is further proven when examing the $R^2$ value (shown below)
+   
    ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q5.png)
+   
    Typically, an $R^2$ value of .7 or higher signifies a strong correlation, while an $R^2$ value of .4 or lower shows low correlation. This regressions value was around .337, meaning that we have definitivly proven User score and Critic socre have a low correlation to each other.
    
    
