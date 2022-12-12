@@ -96,10 +96,10 @@ Question 3:
    
    ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q5.png)
    
-   Typically, an $R^2$ value of .7 or higher signifies a strong correlation, while an $R^2$ value of .4 or lower shows low correlation. This regressions value was around .337, meaning that we have definitivly proven User score and Critic socre have a low correlation to each other.
+   Typically, an $R^2$ value of .81 or higher signifies a strong correlation, while an $R^2$ value between that and .2025  shows low correlation. This regression's value was around .337, meaning that we have definitivly proven User score and Critic socre have  pretty a low correlation to each other.
    
    ### Conclusion
-   I would have hypothosised that the User score and Critic score would be much more correlated, so I find these restuls surprising. I do not think I currently have the data I need to understand why this is the case, but I would consider trying to find that data so I can better understand what casues this desparity is scoring between players and critics. Overall, I felt this indivual assigment helped me get an even more persicse answer to my groups previously asked questions and allowed me to agian experiance using Linear Regressions to determine the correlation between two attributes.
+   I would have hypothosised that the User score and Critic score would be much more correlated, so I find these restuls surprising. I do not think I currently have the data I need to understand why they are only slightly correlated, but I would consider trying to find that data so I can better understand what casues this desparity is scoring between players and critics. Overall, I felt this indivual assigment helped me get an even more persicse answer to my groups previously asked questions and allowed me to agian experiance using Linear Regressions to determine the correlation between two attributes.
    
    
 ## References (For whole project)
@@ -107,5 +107,5 @@ Question 3:
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
    https://www.kaggle.com/datasets/rush4ratio/video-game-sales-with-ratings
-   https://www.investopedia.com/terms/r/r-squared.asp#:~:text=In%20finance%2C%20an%20R%2DSquared,would%20show%20a%20low%20correlation.
+  https://condor.depaul.edu/sjost/it223/documents/correlation.htm
 
