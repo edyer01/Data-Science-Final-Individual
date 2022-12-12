@@ -85,6 +85,10 @@ Question 3:
    
    The image shown is the result of a linear regression being applied to the graph created to answer Question 2. 
    
+   ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q6.png)
+   
+   This image shows how that graph and regression was created. First I create a new linear regression model. Then I assign critic score values as array x and user score values as array y. I then created a new, vertical array called X mad up of the x values, which was then fitted with my y array. I created a yfit array that was the predicted y values for the model bassed off of the given X values. Lastly, I plotted the x and y values with a scatter plot and plooted a line using X and the yfit arrays to create the linear regresion.
+   
    
    ### Discussion
    
@@ -94,8 +98,11 @@ Question 3:
    
    Typically, an $R^2$ value of .7 or higher signifies a strong correlation, while an $R^2$ value of .4 or lower shows low correlation. This regressions value was around .337, meaning that we have definitivly proven User score and Critic socre have a low correlation to each other.
    
+   ### Conclusion
+   I would have hypothosised that the User score and Critic score would be much more correlated, so I find these restuls surprising. I do not think I currently have the data I need to understand why this is the case, but I would consider trying to find that data so I can better understand what casues this desparity is scoring between players and critics. Overall, I felt this indivual assigment helped me get an even more persicse answer to my groups previously asked questions and allowed me to agian experiance using Linear Regressions to determine the correlation between two attributes.
    
-## References
+   
+## References (For whole project)
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
    https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.astype.html
