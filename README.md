@@ -69,12 +69,14 @@ Question 3:
   
    Q3: Year by year breakdowns of other categories like publisher or rating to see if any similar trends exist in those categories
 
- # Individual Report
+ # Individual Report (NEW WORK!!)
  
-   The additional question I looked to answer was our proposed future direction to question 2:
+   For the individual aspect of the project, I chose to look into my groups proposed future direction to question 2:
     Use Scikit to create a linear regression for our User Score vs Critic Score chart to get a more precise understand of their correlation
-    I used 
-
+     
+     # Results
+    
+    ![alt text](https://github.com/edyer01/Data-Science-Final-Individual/blob/main/Q4.png)
 # References
   https://www.geeksforgeeks.org/pandas-groupby-multiple-values-and-plotting-results/
   https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.plot.area.html
